@@ -1,4 +1,13 @@
 # Changelog
+## May 2023 Release
+
+**Date**: 2023.05.04
+
+**Version**: `n8n-x_e-1-11-0_n-0-225-2` → desktop version: 1.11.0 | n8n version: 0.225.2
+- Upgrade to `n8n@0.225.2`
+- Disabled user management
+- Disabled Telemetry
+- Enabled data pruning
 
 ## February 2023 Release
 
